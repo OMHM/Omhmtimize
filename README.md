@@ -5,7 +5,7 @@
 
 ## MISSION
 
-     Omhmtimize strives to create a streamlined learning experience for modern society. The difficulty of learning a new
+ Omhmtimize strives to create a streamlined learning experience for modern society. The difficulty of learning a new
 subject can be a huge deterent. Compounding the frustration of learning newsubjects, the overwhelming lack of valid
 or sufficient resources form a hostile enviroment. Here at OMHM, we are constantly developing a model of human
 learning in an effort to make learning less frightnening and possible for the global community. By vigorously striving to
