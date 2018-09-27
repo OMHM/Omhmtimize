@@ -1,9 +1,17 @@
+
 # Omhmtimize
+
 
 
 ## MISSION
 
-        Omhmtimize strives to create a streamlined learning experience for modern society. The difficulty of learning a new subject can be a huge deterent. Compounding the frustration of learning newsubjects, the overwhelming lack of valid or sufficient resources form a hostile enviroment. Here at OMHM, we are constantly developing a model of human learning in an effort to make learning less frightnening and possible for the global community. By vigorously striving to source only the most relavant and accurate data as well as continually working to perfect the academic paradigm, we hope to one day leave no corner of the globe in the dark.
+     Omhmtimize strives to create a streamlined learning experience for modern society. The difficulty of learning a new
+subject can be a huge deterent. Compounding the frustration of learning newsubjects, the overwhelming lack of valid
+or sufficient resources form a hostile enviroment. Here at OMHM, we are constantly developing a model of human
+learning in an effort to make learning less frightnening and possible for the global community. By vigorously striving to
+source only the most relavant and accurate data as well as continually working to perfect the academic paradigm, we
+hope to one day leave no corner of the globe in the dark.
+     
 
 Omhmtimize strives to: 
    > Create an open source communal learning enviroment where all can come to seek knowledge
